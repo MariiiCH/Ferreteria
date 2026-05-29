@@ -1,0 +1,6 @@
+@Ferreteri_HostAddress = http://localhost:5016
+
+GET {{Ferreteri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
