@@ -1,5 +1,3 @@
-# Ferreteri
-
 # Ferretería API - ASP.NET Core 8 + SQL Server
 
 API REST desarrollada con ASP.NET Core 8 y SQL Server para la gestión de una ferretería.
