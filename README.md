@@ -55,6 +55,10 @@ Ferreteri/
 ```
 
 ---
+## DIAGRAMA BD
+<img width="682" height="528" alt="image" src="https://github.com/user-attachments/assets/83e09512-2e4f-4494-93b8-f09d19e9b74f" />
+
+---
 
 ## Requisitos
 
